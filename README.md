@@ -20,7 +20,7 @@ A la fin de ce défi vous allez apprendre à extraire les données à partir d'u
 
 2. Dans la fonction :
 
-- créer un objet `XMLHttpRequest`
+- Créer un objet `XMLHttpRequest`
 
 - Charger les données à partir des données dans le fichier `data.txt`
 
