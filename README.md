@@ -1,5 +1,5 @@
 # Contexte
-A la fin de cette serie de défis vous serai capable à repondre aux questions concerant la programmation Javascript Asynchrone (AJAX) en travaillant avec des technologies tel que `XMLHttpRequest` et `Fetch` API. Vous serez capable de :
+A la fin de cette serie de défis vous serai capable à repondre aux questions concerant la programmation Javascript Asynchrone `AJAX` en travaillant avec des technologies tel que `XMLHttpRequest` et `Fetch` API pour extraire des données en format `brutes` ou en format `JSON`. Vous serez capable de :
 
 1. Différencier entre la programmation Synchrone et la programmation Asynchrone
 
