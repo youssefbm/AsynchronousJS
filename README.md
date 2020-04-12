@@ -9,7 +9,7 @@ A la fin de cette serie de défis vous serai capable à repondre aux questions c
 4. ...
 
 
-## Défi 1 :
+## Défi 1 : Local data request:
 
 A la fin de ce défi vous allez apprendre à extraire les données à partir d'un document texte `data.txt` de manière asychrone en utilisant l'objet XHR.
 
