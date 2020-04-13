@@ -10,7 +10,7 @@ A la fin de cette serie de défis vous serai capable à repondre aux questions c
 4. ...
 
 
-## Défi 1 : Local data request:
+## Défi 1 : Local data request from plain text
 
 A la fin de ce défi vous allez apprendre à extraire les données à partir d'un document texte `data.txt` de manière asychrone en utilisant l'objet XHR.
 
@@ -25,3 +25,19 @@ A la fin de ce défi vous allez apprendre à extraire les données à partir d'u
 - Charger les données à partir des données dans le fichier `data.txt`
 
 - Inserer les données les données à l'interieur de la balise `output`
+
+## Défi 1 : Local data request from plain text
+
+A la fin de ce défi vous allez apprendre à extraire les données à partir d'un document JSON `customer.json & customers.json` de manière asychrone en utilisant l'objet XHR.
+
+
+
+1. Créer les `event listner` de type `click` qui déclencherons les fonctions `loadCustomer` & `loadCustomers` .
+
+2. Dans les fonction :
+
+- créer un objet `XMLHttpRequest`
+
+- Charger les données à partir des données dans le fichier `JSON`
+
+- Inserer les données les données à l'interieur de la balise `#customer` & `#customers`
