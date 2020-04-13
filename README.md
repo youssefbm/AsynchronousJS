@@ -26,7 +26,7 @@ A la fin de ce défi vous allez apprendre à extraire les données à partir d'u
 
 - Inserer les données les données à l'interieur de la balise `output`
 
-## Défi 1 : Local data request from plain text
+## Défi 2 : Local data request from JSON files
 
 A la fin de ce défi vous allez apprendre à extraire les données à partir d'un document JSON `customer.json & customers.json` de manière asychrone en utilisant l'objet XHR.
 
