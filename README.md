@@ -49,9 +49,9 @@ A la fin de ce défi vous allez apprendre à manipuler les données coté serveu
 
 2. Utilisez cet outil pour générer le lien de l'`API` en se basant sur le fichiers `db.json`
 
-3. Par `XMLHttpRequest`, effectuez du `CRUD` (Create, Remove,Update et Delete) en se basant sur les requêtes : `GET` `POST` `PUT` `DELETE`
+3. Par `XMLHttpRequest`, effectuez du `CRUD` (Create, Read, Update et Delete) en se basant sur les requêtes : `GET` `POST` `PUT` `DELETE`
 
-4. Par `Festch API`, effectuez du `CRUD` (Create, Remove,Update et Delete) en se basant sur les requêtes : `GET` `POST` `PUT` `DELETE`
+4. Par `Festch API`, effectuez du `CRUD` (Create, Read, Update et Delete) en se basant sur les requêtes : `GET` `POST` `PUT` `DELETE`
 
 5. Par `Festch API & Asynch/await` effectuez du `CRUD` (Create, Remove,Update et Delete) en se basant sur les requêtes : `GET` `POST` `PUT` `DELETE`
 
