@@ -55,3 +55,4 @@ A la fin de ce défi vous allez apprendre à manipuler les données coté serveu
 
 5. Par `Festch API & Asynch/await` effectuez du `CRUD` (Create, Remove,Update et Delete) en se basant sur les requêtes : `GET` `POST` `PUT` `DELETE`
 
+* NB : Affichez la liste des livres dans un `tableau HTML` 
